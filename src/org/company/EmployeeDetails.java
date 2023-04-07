@@ -11,6 +11,11 @@ public class EmployeeDetails {
 		System.out.println("Enter Address:");
 	}
  
+	public void empState() {
+		
+	}
+	
+	
 	public static void main(String[] args) {
 		EmployeeDetails details=new EmployeeDetails();
 		details.empName();
